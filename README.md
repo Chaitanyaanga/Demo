@@ -1,2 +1,2 @@
-# Demo
+# DEMO
 Learning GitHub with DevOps
